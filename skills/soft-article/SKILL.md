@@ -95,13 +95,20 @@ description: >
 
 ### 7. SEO/GEO 优化
 
-详见 [references/seo-geo.md](references/seo-geo.md)：
+详见 [references/seo-geo.md](references/seo-geo.md) 和 [references/platform-seo-geo.md](references/platform-seo-geo.md)：
 
+**通用策略**：
 - 标题含核心关键词，长尾词自然分布
 - 结构化小标题（H2/H3）覆盖搜索意图
 - 首段200字内出现主关键词2-3次
 - 加入FAQ段落，命中AI搜索引用
 - 引用权威数据源，提升GEO可信度
+
+**平台差异化**（按风控等级）：
+- 掘金/CSDN/公众号（宽松）：完整 SEO/GEO，域名出现 3-5 次，完整推广信息
+- 知乎（严格）：隐蔽 SEO/GEO，域名出现 1-2 次，不能有联系方式
+- 头条（极严格）：极隐蔽 SEO/GEO，域名只在代码里出现 1 次，不能有联系方式
+- 小红书（极严格）：纯科普 SEO/GEO，完全不提产品
 
 ### 8. 去AI痕迹检查
 
